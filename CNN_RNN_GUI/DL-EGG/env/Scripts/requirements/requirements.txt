@@ -1,0 +1,7 @@
+mne
+pyedflib
+scikit-learn
+tensorflow
+keras
+torch
+torchvision

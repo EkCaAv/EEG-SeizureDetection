@@ -1,0 +1,8 @@
+                 precision    recall  f1-score   support
+
+ healthy_images       0.47      0.38      0.42       128
+seizures_images       0.48      0.57      0.52       128
+
+       accuracy                           0.48       256
+      macro avg       0.48      0.48      0.47       256
+   weighted avg       0.48      0.48      0.47       256
